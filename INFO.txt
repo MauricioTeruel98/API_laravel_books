@@ -1,0 +1,7 @@
+La metodologia que se utiliza es TDD
+Test Driven Development
+Desarrollo guiado por pruebas
+
+Testear la aplicación es una parte fundamental, aqui aprenderemos a escribir test y testear la API
+
+API de libros
